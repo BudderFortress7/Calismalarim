@@ -1,0 +1,7 @@
+C:\Users\HP\Source\Repos\sans\ClassMetotDemo\obj\Debug\ClassMetotDemo.csprojAssemblyReference.cache
+C:\Users\HP\Source\Repos\sans\ClassMetotDemo\obj\Debug\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\sans\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe.config
+C:\Users\HP\Source\Repos\sans\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe
+C:\Users\HP\Source\Repos\sans\ClassMetotDemo\bin\Debug\ClassMetotDemo.pdb
+C:\Users\HP\Source\Repos\sans\ClassMetotDemo\obj\Debug\ClassMetotDemo.exe
+C:\Users\HP\Source\Repos\sans\ClassMetotDemo\obj\Debug\ClassMetotDemo.pdb
