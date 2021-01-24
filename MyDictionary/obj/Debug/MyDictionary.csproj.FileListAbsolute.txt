@@ -1,0 +1,7 @@
+C:\Users\HP\Source\Repos\sans\MyDictionary\obj\Debug\MyDictionary.csprojAssemblyReference.cache
+C:\Users\HP\Source\Repos\sans\MyDictionary\obj\Debug\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\sans\MyDictionary\bin\Debug\MyDictionary.exe.config
+C:\Users\HP\Source\Repos\sans\MyDictionary\bin\Debug\MyDictionary.exe
+C:\Users\HP\Source\Repos\sans\MyDictionary\bin\Debug\MyDictionary.pdb
+C:\Users\HP\Source\Repos\sans\MyDictionary\obj\Debug\MyDictionary.exe
+C:\Users\HP\Source\Repos\sans\MyDictionary\obj\Debug\MyDictionary.pdb
