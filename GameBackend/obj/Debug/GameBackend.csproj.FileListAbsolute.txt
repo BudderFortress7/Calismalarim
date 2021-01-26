@@ -1,0 +1,7 @@
+C:\Users\HP\Source\Repos\sans\GameBackend\obj\Debug\GameBackend.csprojAssemblyReference.cache
+C:\Users\HP\Source\Repos\sans\GameBackend\obj\Debug\GameBackend.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\sans\GameBackend\bin\Debug\GameBackend.exe.config
+C:\Users\HP\Source\Repos\sans\GameBackend\bin\Debug\GameBackend.exe
+C:\Users\HP\Source\Repos\sans\GameBackend\bin\Debug\GameBackend.pdb
+C:\Users\HP\Source\Repos\sans\GameBackend\obj\Debug\GameBackend.exe
+C:\Users\HP\Source\Repos\sans\GameBackend\obj\Debug\GameBackend.pdb
