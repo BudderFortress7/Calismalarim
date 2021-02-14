@@ -1,0 +1,7 @@
+C:\Users\HP\Source\Repos\ReCapProject\Bussiness\bin\Debug\Bussiness.exe.config
+C:\Users\HP\Source\Repos\ReCapProject\Bussiness\bin\Debug\Bussiness.exe
+C:\Users\HP\Source\Repos\ReCapProject\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\HP\Source\Repos\ReCapProject\Bussiness\obj\Debug\Bussiness.csprojAssemblyReference.cache
+C:\Users\HP\Source\Repos\ReCapProject\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\ReCapProject\Bussiness\obj\Debug\Bussiness.exe
+C:\Users\HP\Source\Repos\ReCapProject\Bussiness\obj\Debug\Bussiness.pdb
